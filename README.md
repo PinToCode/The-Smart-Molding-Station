@@ -1,5 +1,10 @@
 # The Smart Molding Station
 
+<p align="center">
+  <img src="images/molding_station_physical_setup.jpg" alt="molding station physical setup" width="320"/>
+  <img src="images/Digital-twin.jpg"  alt="Digital twin"  width="320"/>
+</p>
+
 ### **Industry 4.0 Cyber-Physical System (CPS) Prototype**
 
 The **Smart Molding Station** is a 4-tier distributed IoT architecture designed to simulate the safety and operational logic of a modern manufacturing cell. By integrating 8 wireless sensor nodes with a synchronized **3D Digital Twin**, the system enforces context-aware safety protocols to protect workers in high-temperature environments.
