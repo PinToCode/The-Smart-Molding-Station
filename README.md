@@ -1,8 +1,8 @@
 # The Smart Molding Station
 
 <p align="center">
-  <img src="images/molding_station_physical_setup.jpg" alt="molding station physical setup" width="320"/>
-  <img src="images/Digital-twin.jpg"  alt="Digital twin"  width="320"/>
+  <img src="images/molding_station_physical_setup.jpeg" alt="molding station physical setup" width="320"/>
+  <img src="images/Digital-twin.jpeg"  alt="Digital twin"  width="320"/>
 </p>
 
 ### **Industry 4.0 Cyber-Physical System (CPS) Prototype**
